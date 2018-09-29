@@ -1,0 +1,22 @@
+*{
+    font-family: 'Varela Round', sans-serif;
+}
+#wrapper{
+    width: 500px;
+    margin: auto;
+}
+#content{
+    clear: both;
+    background-color: white;
+    padding: 20px;
+    position: absolute;
+    margin-top: 69px;
+}
+.box{
+    width: 10px;
+    height: 10px;
+    background-color: #f5f7f9;
+    margin-left: 3px;
+    margin-top: 3px;
+    float: left;
+}
